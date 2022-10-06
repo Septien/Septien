@@ -2,7 +2,7 @@
 - 👀 I’m interested in distributed systems, infrastructure, and the software that makes it happen.
 - 🌱 I’m currently learning the intricate details of the cloud, and also about the Apache Hadoop ecosystem.
 - 💞️ I’m looking to collaborate on Internet of Things, Edge computing, and cloud computing.
-- 📫 How to reach me jaseptienh@gmail.com
+- 📫 How to reach me: you can send me an email to jaseptienh@gmail.com, for any collaboration you want to do with me.
 
 <!---
 Septien/Septien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
