@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning the intricate details of the cloud, and also about the Apache Hadoop ecosystem.
 - 💞️ I’m looking to collaborate on Internet of Things, Edge computing, and cloud computing.
 - 📫 How to reach me: you can send me an email to jaseptienh@gmail.com, for any collaboration you want to do with me.
+- :hammer_and_wrench: Current projects:
+  - :control_knobs: Implementation of a Wireless Sensor Network (WSN) stack, with a mesh architecture (https://github.com/Septien/WMN-Iot.git).
+  - :cop: TODO: Implementation of a consensus protocol for WSN.
 
 <!---
 Septien/Septien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
